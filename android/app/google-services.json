@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562781742930",
+    "project_id": "flutterpadrao-mvc",
+    "storage_bucket": "flutterpadrao-mvc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562781742930:android:3e139b32939afa36f73c8b",
+        "android_client_info": {
+          "package_name": "Flutter.Padrao.MVC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562781742930-6edfbu04p7p74ncrobflnk9flqeehi97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Flutter.Padrao.MVC",
+            "certificate_hash": "061dd6f3f72b2154ec7b166f2b992570b95e1c1f"
+          }
+        },
+        {
+          "client_id": "562781742930-09hmfmeot0tn9if9p8r6jrp1phujire4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgUJc-YpNVhol-N9HiSFyfwidy5RW7TE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562781742930-09hmfmeot0tn9if9p8r6jrp1phujire4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
